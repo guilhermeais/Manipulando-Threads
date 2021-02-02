@@ -1,0 +1,7 @@
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\TaskConsole\bin\Debug\TaskConsole.exe.config
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\TaskConsole\bin\Debug\TaskConsole.exe
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\TaskConsole\bin\Debug\TaskConsole.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\TaskConsole\obj\Debug\TaskConsole.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\TaskConsole\obj\Debug\TaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\TaskConsole\obj\Debug\TaskConsole.exe
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\TaskConsole\obj\Debug\TaskConsole.pdb
