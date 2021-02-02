@@ -40,8 +40,10 @@ namespace ThreadForm
         {
             while (true)
             {
-                // lblResultado.Text = DateTime.Now.Second.ToString();
-                DefinirValorPropriedade(lblResultado, "Text", DateTime.Now.Second.ToString());
+              //  lblResultado.Text = DateTime.Now.Second.ToString();
+                lblResultado.Invoke(new Action(() => lblResultado.Text = DateTime.Now.Second.ToString())); // new Action() é uma maneira de criar um Delegate anonimo e o '() =>' é o uso de um método LAMBDA para chamar a tarefa que vamos exexutar
+                // Forma mais complicada:
+                // DefinirValorPropriedade(lblResultado, "Text", DateTime.Now.Second.ToString());
             }
         }
 

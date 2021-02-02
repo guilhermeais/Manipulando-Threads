@@ -8,3 +8,13 @@ C:\Users\guilh\OneDrive\Documentos\Curso\ThreadForm\ThreadForm\obj\Debug\ThreadF
 C:\Users\guilh\OneDrive\Documentos\Curso\ThreadForm\ThreadForm\obj\Debug\ThreadForm.csproj.CoreCompileInputs.cache
 C:\Users\guilh\OneDrive\Documentos\Curso\ThreadForm\ThreadForm\obj\Debug\ThreadForm.exe
 C:\Users\guilh\OneDrive\Documentos\Curso\ThreadForm\ThreadForm\obj\Debug\ThreadForm.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\bin\Debug\ThreadForm.exe.config
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\bin\Debug\ThreadForm.exe
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\bin\Debug\ThreadForm.pdb
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\obj\Debug\ThreadForm.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\obj\Debug\ThreadForm.Form1.resources
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\obj\Debug\ThreadForm.Properties.Resources.resources
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\obj\Debug\ThreadForm.csproj.GenerateResource.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\obj\Debug\ThreadForm.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\obj\Debug\ThreadForm.exe
+C:\Users\Guilherme\Documents\GitHub\Curso Csharp\Manipulando-Threads\ThreadForm\obj\Debug\ThreadForm.pdb
